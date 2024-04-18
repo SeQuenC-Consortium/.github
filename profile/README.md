@@ -11,10 +11,19 @@ This organisation is used for an ongoing project with active development, which 
 
 ### Partners
 
+#### QMware
+
 [https://www.qm-ware.com](https://www.qm-ware.com)
+
+#### IONOS
 
 [https://www.ionos.de](https://www.ionos.de)
 
+#### University of Stuttgart
+
 [https://www.iaas.uni-stuttgart.de](https://www.iaas.uni-stuttgart.de)
+
+
+#### Frauenhofer FOKUS
 
 [https://www.fokus.fraunhofer.de](https://www.fokus.fraunhofer.de)
