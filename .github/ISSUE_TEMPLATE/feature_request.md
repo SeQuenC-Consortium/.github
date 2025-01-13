@@ -1,20 +1,27 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+## Problem Statement
+
+[Description of the problem you're trying to solve, including any relevant background information]
+
+## Sketch
+
+[Attach or embed a sketch or diagram that illustrates the problem or proposed solution]
+
+## References
+
+[List any relevant articles, websites, or other resources that may be helpful]
+
+## Expected Behavior
+
+[Describe what you expect to happen when the problem is solved, or when the proposed solution is implemented]
+
+## Tasks
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+
+## Notes
+
+[Any additional notes or context that may be helpful in understanding the issue]
 
 ---
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
